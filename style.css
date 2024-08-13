@@ -1,0 +1,50 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 25px;
+    font-family: cursive;
+    background-color: coral !important;
+    border-color: coral;
+}
+
+#lipstickBtn
+{
+    width: 120px;
+    height: 100px;
+    background-image: url('lips.png');
+    background-size: cover;
+    background-position: center;
+    background-color: beige;
+    border-radius: 8px;
+    border: 5px solid;
+    border-color: beige;
+    margin-top: 10px;
+}
+
+#mustacheBtn
+{
+    width: 120px;
+    height: 100px;
+    background-image: url('mustache.png');
+    background-size: cover;
+    background-position: center;
+    background-color: beige;
+    border: 5px solid;
+    border-color: beige;
+    border-radius: 8px
+}
+
+canvas
+{
+    margin-top: 150px;
+    border-radius: 20px;
+}
+
+#div1
+{
+    margin-top: 380px;
+}
